@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_dial"
+        android:title="Dial Number" />
+    <item
+        android:id="@+id/menu_web"
+        android:title="Open Website" />
+    <item
+        android:id="@+id/menu_sms"
+        android:title="Send SMS" />
+</menu>
